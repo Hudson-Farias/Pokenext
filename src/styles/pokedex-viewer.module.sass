@@ -1,0 +1,31 @@
+.pokedexViewer
+    display: grid
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr))
+    justify-content: center
+    align-items: center
+    overflow: auto
+
+    .pokemonViewerCard
+        display: flex
+        flex-direction: column
+        justify-content: center
+        align-items: center
+
+        margin: 5px
+        
+        .pokemonViewerImage
+            margin-bottom: -60px
+            z-index: 2
+            
+        .pokemonViewerLabel
+            display: flex
+            flex-direction: column
+            justify-content: center
+            align-items: center
+
+            width: 100%
+            padding: 50px 0 5px 0
+            border-radius: 10px
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3)
+
+            background-color: white

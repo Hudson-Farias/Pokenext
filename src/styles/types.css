@@ -1,0 +1,90 @@
+.bug {
+    color: rgb(145, 186, 46);
+    background-color: rgb(189, 221, 110);
+}
+
+.dark {
+    color: rgb(45, 34, 28);
+    background-color: rgb(95, 70, 50);
+}
+
+.dragon {
+    color: rgb(41, 3, 106);
+    background-color: rgb(138, 85, 253);
+}
+
+.electric {
+    color: rgb(150, 145, 1);
+    background-color: rgb(255, 250, 36);
+}
+
+.fairy {
+    color: rgb(248, 126, 167);
+    background-color: rgb(255, 160, 194);
+}
+
+.fighting {
+    color: rgb(128, 11, 17);
+    background-color: rgb(232, 19, 25);
+}
+
+.fire {
+    color: rgb(252, 12, 11);
+    background-color: rgb(246, 127, 11);
+}
+
+.flying {
+    color: rgb(8, 87, 100);
+    background-color: rgb(94, 185, 178);
+}
+
+.ghost {
+    color: rgb(71, 43, 83);
+    background-color: rgb(142, 85, 164);
+}
+
+.grass {
+    color: rgb(32, 64, 0);
+    background-color: rgb(62, 151, 9);
+}
+
+.ground {
+    color: rgb(191, 172, 33);
+    background-color: rgb(225, 209, 88);
+}
+
+.ice {
+    color: rgb(16, 61, 67);
+    background-color: rgb(25, 149, 161);
+}
+
+.normal {
+    color: rgb(172, 169, 116);
+    background-color: rgb(204, 201, 170);
+}
+
+.poison {
+    color: rgb(97, 19, 128);
+    background-color: rgb(168, 25, 215);
+}
+
+.psychic {
+    color: rgb(138, 5, 50);
+    background-color: rgb(236, 14, 99);
+}
+
+.rock {
+    color: rgb(71, 64, 38);
+    background-color: rgb(119, 106, 62);
+}
+
+.steel {
+    color: rgb(69, 69, 69);
+    background-color: rgb(123, 142, 138);
+}
+
+.water {
+    color: rgb(8, 81, 122);
+    background-color: rgb(10, 122, 188);
+}
+
