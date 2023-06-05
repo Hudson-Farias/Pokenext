@@ -1,4 +1,9 @@
 .pokedexViewer
+    @media (max-width: 1023px)
+    @media (min-width: 1024px)
+        grid-column: 2 / 4
+        grid-row: 2 / 3
+
     display: grid
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr))
     justify-content: center
@@ -6,6 +11,9 @@
     overflow: auto
 
     .pokemonViewerCard
+        &:hover
+            cursor: pointer
+        
         display: flex
         flex-direction: column
         justify-content: center
